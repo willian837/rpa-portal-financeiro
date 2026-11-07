@@ -14,9 +14,9 @@ Abra `http://localhost:8000/templates/login.html`.
 
 ## GitHub Pages
 
-Após publicar a branch `main` com a pasta raiz como origem do GitHub Pages, acesse:
+Após publicar a branch `main` com a pasta raiz como origem do GitHub Pages, acesse a tela de login:
 
-<https://willian837.github.io/rpa-portal-financeiro/>
+<https://willian837.github.io/rpa-portal-financeiro/templates/login.html>
 
 ## Acesso demonstrativo
 
